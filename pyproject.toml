@@ -2,7 +2,7 @@
 name = "imagica"
 version = "0.1.0"
 description = "A package to help with image processing"
-authors = ["りーべ <magical.liebe@gmail.com>"]
+authors = ["MagicalLiebe <magical.liebe@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
