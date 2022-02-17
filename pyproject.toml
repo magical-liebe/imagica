@@ -3,6 +3,9 @@ name = "imagica"
 version = "0.1.0"
 description = "A package to help with image processing"
 authors = ["MagicalLiebe <magical.liebe@gmail.com>"]
+homepage = "https://github.com/MagicalLiebe"
+repository = "https://github.com/MagicalLiebe/imagica"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
