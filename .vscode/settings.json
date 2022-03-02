@@ -15,4 +15,5 @@
         "--ignore=E203,W503,W504"
     ],
     "python.linting.mypyEnabled": true,
+    "python.sortImports.path": "${workspaceFolder}/.venv/bin/isort"
 }
